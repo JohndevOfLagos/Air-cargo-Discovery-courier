@@ -7188,6 +7188,11 @@ END OF LATEST - NEWS
 			right: -8.8%;
 		}
 	}
+	@media screen and (max-width:458px) {
+		.feeback_button-text {
+			right: -10.8%;
+		}
+	}
 	
 	@media  screen and (max-width:414px) {
 		.feeback_button-text {
