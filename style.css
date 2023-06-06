@@ -1360,8 +1360,6 @@ END OF ===== OF HERO
 	}
 
 
-
-
 	.nav-item__home-link .brand-logo>i{
 		font-size: 35px;
 		color: #63d8ff;
@@ -1458,7 +1456,7 @@ END OF ===== OF HERO
 
 	
 	.form-input input[type="text"] {
-		width: 120%;
+		width: 300%;
 		padding: 10px;
 		padding-left: 28.5px;
 		border-radius: 4px;
@@ -1471,46 +1469,10 @@ END OF ===== OF HERO
 	
 	
 	
-	 .form-input input::-webkit-input-placeholder {
-		color: #bebebe;
-		font-size: 15.5px;
-		font-weight: 100;
-	 }
-	
-	
-	
-	
-	 .form-input input::-moz-placeholder {
-		color: #bebebe;
-		font-size: 15.5px;
-		font-weight: 100;
-	 }
-	
-	
-	
-	
-	 .form-input input:-ms-input-placeholder {
-		color: #bebebe;
-		font-size: 15.5px;
-		font-weight: 100;
-	 }
-	
-	
-	
-	
-	 .form-input input::-ms-input-placeholder {
-		color: #bebebe;
-		font-size: 15.5px;
-		font-weight: 100;
-	 }
-	
-	
-	
-	
 	 .form-input input::placeholder {
-		color: #bebebe;
-		font-size: 15.5px;
-		font-weight: 100;
+		color: #a9a9a9;
+		font-size: 16px;
+		font-weight: 300;
 	 }
 	
 	
@@ -1533,13 +1495,11 @@ END OF ===== OF HERO
 		position: absolute;
 		left: 2px;
 		bottom: 1px;
-		width: 312.2%;
+		width: 555.2%;
 		height: 1px;
 		background-color: #000;
 		opacity: 0.2;
 	 }
-
-
 
 
 	
@@ -1561,7 +1521,7 @@ END OF ===== OF HERO
 		position: relative;
 		font-size: 14px;
 		top: 14.8px;
-		left: 340px;
+		left: 350px;
 	 }
 	
 	
@@ -1570,7 +1530,7 @@ END OF ===== OF HERO
 		 content: "";
 		 bottom: -18px;
 		 left: 0;
-		 width: 419px;
+		 width: 428px;
 		 height: 1.8px;
 		 background-color: #00243d;
 		 opacity: 1;
@@ -2312,6 +2272,8 @@ REGISTER & LEARN-MORE
 
 }
 
+
+
 @media screen and (max-width:912px) {
 	
 	.box-register p {
@@ -2337,6 +2299,7 @@ REGISTER & LEARN-MORE
 
 
 }
+
 
 @media screen and (max-width:820px) {
 
@@ -2539,6 +2502,152 @@ REGISTER & LEARN-MORE
 }
 
 
+
+
+@media screen and (max-width:575px) {
+
+	.bg-white .section-container {
+		display: grid;
+		grid-template-columns: repeat(1,506px);
+		padding: 33px 15px;
+	}
+
+
+
+	.hero-center .form-wrapper {
+		margin-top: 8px;
+		padding: 1.5rem 400px 2.5rem 1rem;
+		border-radius: 0.35rem;
+		background-color: #fff;
+		top: 20px;
+	}
+
+
+	
+   .box-register {
+		padding: 0;
+		padding-bottom: 24px;
+	 }
+	 
+
+	 .register-logo {
+		position: absolute;
+		left: 4%;
+		top: 10%;
+		font-size: 50px;
+		/* padding: 0 10px; */
+	 }
+	
+
+	
+	 .box-register h3 {
+		padding-top: 35px;
+		font-size: 20px;
+		font-weight: 300;	
+		padding-left: 82px;
+	 }
+
+	 .register-title {
+		display: inline-block;
+		align-items: baseline;
+      margin-top: 7.5px;
+	 }
+	
+	 .box-register p {
+		margin-top: 20px;
+		font-size: 16px;
+		font-weight: 300;	
+		padding-left: 25px;
+		padding-right: 0;
+		line-height: 20px;
+		max-width: 450px;
+	 }
+
+	 .box-register .register-button {
+		margin-top: 30px;
+		margin-left: 5px;
+	 }
+
+	 .box-register a {
+		display: flex;
+		justify-content: center;
+		font-size: 16px;
+		font-weight: 300;
+		padding: 12px 180.5px ;
+	 }
+	
+	 /* 
+	 =============
+	 END OF ==== REGISTER
+	 ===========
+	  */
+	
+	 /* 
+	 =============
+	 LEARM-MORE
+	 ===========
+	  */
+	
+	.box-learn-more {
+		padding: 0;
+		padding-bottom: 24px;
+	 }
+	
+
+
+	 .learn-more-logo {
+		position: absolute;
+		left: 4%;
+		top: 12%;
+		font-size: 50px;
+		/* padding: 0 10px; */
+	 }
+	
+	
+	
+	 .box-learn-more h3 {
+		padding-top: 35px;
+		font-size: 20px;
+		font-weight: 300;	
+		padding-left: 82px;
+	 }
+
+	 .learn-more-title {
+		display: inline-block;
+		align-items: baseline;
+      margin-top: 7.5px;
+	 }
+	
+	 .box-learn-more p {
+		margin-top: 20px;
+		font-size: 16px;
+		font-weight: 300;	
+		padding-left: 25px;
+		padding-right: 0;
+	 }
+	
+	 .box-learn-more .learn-more-button {
+		margin-top:  30px;
+      margin-left: 5px;
+	 }
+
+	 .box-learn-more a {
+		display: flex;
+		justify-content: center;
+		font-size: 16px;
+		font-weight: 300;	
+		padding: 12px 186.6px;
+	 }
+
+
+	 .bg-white {
+		position: relative;
+		bottom: 20px;
+		left: 0;
+	 }
+
+
+}
 @media screen and (max-width:540px) {
 
 	.bg-white .section-container {
@@ -7190,7 +7299,7 @@ END OF LATEST - NEWS
 	}
 	@media screen and (max-width:458px) {
 		.feeback_button-text {
-			right: -10.8%;
+			right: -11%;
 		}
 	}
 	
