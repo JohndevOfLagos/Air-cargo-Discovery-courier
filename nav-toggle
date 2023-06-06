@@ -1,0 +1,132 @@
+   <div class="nav-toggle" id="nav-toggle">
+      <div class="toggle-container">
+          <a class="toggle-close" href="index.html">
+            <span>Close</span>
+            <span><i class="fa-regular fa-circle-xmark"></i></span>
+          </a>
+           <ul class="toggle-item">
+            <li class="toggle-item-list">
+               <a class="toggle-list-header" href="#">Transportation services</a>
+               <a href="#">Ocean Transport</a>
+               <a href="#">Cross Border Rail Transportation</a>
+               <a href="#">Inland Transport</a>
+               <a href="#">Air Freight</a>
+               <a href="#">Less than Container Load (LCL)</a>
+            </li>
+            <li class="toggle-item-list">
+               <a class="toggle-list-header" href="#">Digital solutions</a>
+               <a href="#">Data Integrations</a>
+               <a href="#">Captain Peter</a>
+               <a href="#">Emissions Dashboard</a>
+               <a href="#">Aircago App</a>
+               <a href="#">MyFinance</a>
+            </li>
+            <li class="toggle-item-list">
+               <a class="toggle-list-header" href="#">Supply Chain & Logistics</a>
+               <a href="#">Supply Chain Management</a>
+               <a href="#">Warehousing & Distribution</a>
+               <a href="#">Customs Services</a>
+               <a href="#">Supply Chain Development</a>
+               <a href="#">Aircago Flow</a>
+               <a href="#">4PL Logistics Solutions</a>
+               <a href="#">Cold Chain Logistics</a>
+               <a href="#">E-Commerce Logistics</a>
+               <a href="#">International Development</a>
+            </li>
+            <li class="toggle-item-list">
+               <a class="toggle-list-header" href="#">Local offices & information</a>
+               <a href="#">Industry sectors</a>
+               <a href="#">Insights</a>
+               <a href="#">Sales enquiry</a>
+               <a href="#">Support</a>
+               <a href="#">News & advisories</a>
+            </li>
+           </ul>
+           <div class="toggle-product">
+            <div class="toggle-product-list">
+               <div class="toggle-product-text">
+                  <h4>Logistics Insights</h4>
+                  <p>Enhance your business' potential with must-read industry insights, upcoming trends and reports.</p>
+                  <br/>
+                  <a href="#">Discover more</a>
+                  </div>
+                  <div class="toggle-product-image">
+                     <img
+                     class="toggle-product-img"
+                     src="./images/TOggle Image/insights_600x600.jpg"
+                     alt=""/>
+                  </div>
+            </div>
+           </div>
+         </div>
+      </div>
+
+
+
+      <div class="nav-toggle-links show-links" id="nav-toggle-links">
+         <div class="toggle-container">
+             <a class="toggle-close" href="index.html">
+               <span>Close</span>
+               <span><i class="fa-regular fa-circle-xmark"></i></span>
+             </a>
+              <ul class="toggle-item">
+               <li class="toggle-item-list">
+                  <a class="toggle-list-header" href="#">Transportation services</a>
+                  <a href="#">Ocean Transport</a>
+                  <a href="#">Cross Border Rail Transportation</a>
+                  <a href="#">Inland Transport</a>
+                  <a href="#">Air Freight</a>
+                  <a href="#">Less than Container Load (LCL)</a>
+               </li>
+               <li class="toggle-item-list">
+                  <a class="toggle-list-header" href="#">Digital solutions</a>
+                  <a href="#">Data Integrations</a>
+                  <a href="#">Captain Peter</a>
+                  <a href="#">Emissions Dashboard</a>
+                  <a href="#">Aircago App</a>
+                  <a href="#">MyFinance</a>
+               </li>
+               <li class="toggle-item-list">
+                  <a class="toggle-list-header" href="#">Supply Chain & Logistics</a>
+                  <a href="#">Supply Chain Management</a>
+                  <a href="#">Warehousing & Distribution</a>
+                  <a href="#">Customs Services</a>
+                  <a href="#">Supply Chain Development</a>
+                  <a href="#">Aircago Flow</a>
+                  <a href="#">4PL Logistics Solutions</a>
+                  <a href="#">Cold Chain Logistics</a>
+                  <a href="#">E-Commerce Logistics</a>
+                  <a href="#">International Development</a>
+               </li>
+               <li class="toggle-item-list">
+                  <a class="toggle-list-header" href="#">Local offices & information</a>
+                  <a href="#">Industry sectors</a>
+                  <a href="#">Insights</a>
+                  <a href="#">Sales enquiry</a>
+                  <a href="#">Support</a>
+                  <a href="#">News & advisories</a>
+               </li>
+              </ul>
+              <div class="toggle-product">
+               <div class="toggle-product-list">
+                  <div class="toggle-product-text">
+                     <h4>Logistics Insights</h4>
+                     <p>Enhance your business' potential with must-read industry insights, upcoming trends and reports.</p>
+                     <br/>
+                     <a href="#">Discover more</a>
+                     </div>
+                     <div class="toggle-product-image">
+                        <img
+                        class="toggle-product-img"
+                        src="./images/TOggle Image/insights_600x600.jpg"
+                        alt=""/>
+                     </div>
+               </div>
+              </div>
+            </div>
+         </div>
+
+
+
+
+
